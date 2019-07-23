@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /home/nishi/udacity/Self_driving_car_ND_P1/test_images_output/output_image_0.jpg "one of the results"
+[image1]: ./test_images_output/output_image_0.jpg "one of the results"
 
 ---
 
