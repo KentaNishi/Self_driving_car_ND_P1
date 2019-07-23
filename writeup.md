@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: /home/nishi/udacity/Self_driving_car_ND_P1/test_images_output/output_image_0.jpg "one of the results"
 
 ---
 
@@ -29,7 +29,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-[image1]: /home/nishi/udacity/Self_driving_car_ND_P1/test_images_output/output_image_0.jpg "one of the results"
+[image1]: 
 
 ![alt text][image1]
 
