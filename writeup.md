@@ -57,9 +57,6 @@ Another shortcoming could be what would happen when lane line's color and road's
 A possible improvement would be to introduce gradient threshold for draw line function.
 This will work when my finding lane line program detect non-lane object as lane and draw line which has outlier gradint.
 
-Another potential improvement could be to apply time-dimentional filter.
-It would be effeictive in the same scene 
-
 Another potential improvement could be to use curve fitting.
 
 
