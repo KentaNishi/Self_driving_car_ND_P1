@@ -29,7 +29,10 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale, th
 After that, I used canny edge detection and masked it. 
 
 [image1]:
+![alt text][image1]
+
 [image2]:
+![alt text][image2]
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by using ransac regression which like a liner regression.
 
@@ -37,7 +40,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 [image3]: 
 
-![alt text][image1]
+![alt text][image3]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
